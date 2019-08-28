@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\camil\\AndroidStudioProjects\\ITC165-Summer-2019\\Hangman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\camil\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\camil\\.gradle\\caches\\transforms-2\\files-2.1\\21cc4df1e3f7a419a267e49463bf5220\\res\\values-v24\\values-v24.xml",

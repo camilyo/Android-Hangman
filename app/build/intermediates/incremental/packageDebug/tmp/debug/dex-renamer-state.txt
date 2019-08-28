@@ -1,4 +1,4 @@
-#Wed Aug 14 17:55:10 PDT 2019
-base.0=C\:\\Users\\camil\\AndroidStudioProjects\\ITC165-Summer-2019\\Hangman\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+#Tue Aug 27 22:28:15 PDT 2019
+base.0=C\:\\Users\\camil\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex

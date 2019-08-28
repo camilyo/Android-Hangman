@@ -1,11 +1,11 @@
 #Internal package file, do not edit.
-#Wed Aug 14 17:55:11 PDT 2019
-1.base=C\:\\Users\\camil\\AndroidStudioProjects\\ITC165-Summer-2019\\Hangman\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+#Tue Aug 27 22:28:17 PDT 2019
+1.base=C\:\\Users\\camil\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\merged_assets\\debug\\out
 0.baseType=DIRECTORY
 1.baseType=DIRECTORY
 count=2
-1.set=DEX
-0.path=words.txt
-0.set=ASSET
-0.base=C\:\\Users\\camil\\AndroidStudioProjects\\ITC165-Summer-2019\\Hangman\\app\\build\\intermediates\\merged_assets\\debug\\out
-1.path=classes.dex
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\camil\\AndroidStudioProjects\\Hangman\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+1.path=words.txt
